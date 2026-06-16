@@ -1,6 +1,6 @@
 # Spectral Clustering for Heart Disease Data
 
-A complete Linear Algebra mini project that implements spectral clustering from scratch (plus a scikit-learn comparison) on the Heart Disease dataset.
+A project that implements spectral clustering from scratch (plus a scikit-learn comparison) on the Heart Disease dataset.
 
 This repository focuses on the mathematical flow behind clustering:
 
@@ -97,6 +97,10 @@ You should review:
 - eigenvalue spectrum and spectral gaps
 
 Together, these indicate whether disease-related subgroups are well-separated in spectral space.
+
+## Output Generated
+<img width="5333" height="3544" alt="spectral_clustering_heart_disease" src="https://github.com/user-attachments/assets/1be36ca0-2c46-4616-a751-7b5e0f44644d" />
+
 
 ## Notes
 
